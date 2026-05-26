@@ -1,5 +1,5 @@
 # DIA2026
-Research on semantic similarity, Bayesian borrowing, and quantitative pharmacovigilance signal detection using ontology-informed methods, MedDRA semantic relationships, and automated regulatory evidence extraction.
+Research repository for semantic similarity-informed Bayesian borrowing, ontology-based pharmacovigilance analytics, and quantitative signal detection. Includes publications and related work on MedDRA semantic similarity, PVLens evidence extraction, and early signal detection methods.
 
 # Semantic Similarity and Bayesian Borrowing for Pharmacovigilance
 
@@ -121,6 +121,15 @@ This body of work explores several connected pharmacovigilance research areas:
 - MedDRA and SNOMED-based semantic modeling
 - Automated regulatory evidence extraction
 - Early signal detection methodologies
+
+---
+
+## About This Repository
+
+This repository accompanies the DIA 2026 presentation:
+"Leveraging Semantic Clinical Similarity to Improve Early Signal Detection."
+
+It serves as a centralized landing page for publications, preprints, and related pharmacovigilance research projects.
 
 ---
 
